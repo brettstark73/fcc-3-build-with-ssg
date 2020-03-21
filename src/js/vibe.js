@@ -3,7 +3,8 @@
     "...and you are awesome!",
     "...have a wonderful day!",
     "...and you've got this!",
-    "...and so is this puppy! 🐶"
+    "...You are OK!",
+    "...Peace...☮️"
   ];
 
    // choose a random good vibe
